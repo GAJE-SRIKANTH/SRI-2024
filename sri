@@ -1,4 +1,8 @@
 welcome to git hub
 welcome to sri developer
+<<<<<<< HEAD
 welcome to feature 
 
+=======
+welcome to kanth developer
+>>>>>>> sri/developer
