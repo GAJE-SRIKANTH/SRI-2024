@@ -1,6 +1,7 @@
 welcome to git hub
 welcome to sri developer
 <<<<<<< HEAD
+<<<<<<< HEAD
 welcome to feature 
 
 =======
@@ -10,3 +11,10 @@ welcome to kanth developer
 =======
 friday practise session
 >>>>>>> sri/developer
+=======
+
+welcome to kanth developer
+
+welcome to feature 
+
+>>>>>>> af6a62ecaf42802d7b0c2487e8199574494b61f7
